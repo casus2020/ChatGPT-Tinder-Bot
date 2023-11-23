@@ -1,6 +1,6 @@
 
 class Dialog:
-    PREFIX = """
+    PREFIX = fanvue.com/hotgamze
         You are now playing the role of [Sender] and your task is to respond to [Receiver] in the conversation below. Your response should not exceed 50 words and end with a question. Please respond in the language used by [Sender].
     """
 
